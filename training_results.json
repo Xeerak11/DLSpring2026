@@ -1,0 +1,1096 @@
+{
+  "experiment": "VLM-gated DreamerV3 on Boxing",
+  "total_episodes": 216,
+  "total_steps": 787680,
+  "score_stats": {
+    "min": -11,
+    "max": 100,
+    "mean": 61.041666666666664,
+    "first_half_mean": 45.51851851851852,
+    "second_half_mean": 76.56481481481481,
+    "last_20_mean": 80.9,
+    "last_10_mean": 81.5
+  },
+  "episodes": [
+    {
+      "step": 6200,
+      "score": -1,
+      "length": 1785
+    },
+    {
+      "step": 10600,
+      "score": 0,
+      "length": 1785
+    },
+    {
+      "step": 17320,
+      "score": 2,
+      "length": 1780
+    },
+    {
+      "step": 24000,
+      "score": -11,
+      "length": 1781
+    },
+    {
+      "step": 32920,
+      "score": -4,
+      "length": 1784
+    },
+    {
+      "step": 39600,
+      "score": 5,
+      "length": 1779
+    },
+    {
+      "step": 46280,
+      "score": 16,
+      "length": 1780
+    },
+    {
+      "step": 53000,
+      "score": 7,
+      "length": 1782
+    },
+    {
+      "step": 59640,
+      "score": 27,
+      "length": 1783
+    },
+    {
+      "step": 68560,
+      "score": 0,
+      "length": 1784
+    },
+    {
+      "step": 75240,
+      "score": 14,
+      "length": 1786
+    },
+    {
+      "step": 81960,
+      "score": 8,
+      "length": 1781
+    },
+    {
+      "step": 88640,
+      "score": 1,
+      "length": 1783
+    },
+    {
+      "step": 95320,
+      "score": 7,
+      "length": 1782
+    },
+    {
+      "step": 104240,
+      "score": 0,
+      "length": 1780
+    },
+    {
+      "step": 110960,
+      "score": 16,
+      "length": 1785
+    },
+    {
+      "step": 117680,
+      "score": 8,
+      "length": 1780
+    },
+    {
+      "step": 124360,
+      "score": 0,
+      "length": 1783
+    },
+    {
+      "step": 131080,
+      "score": 21,
+      "length": 1783
+    },
+    {
+      "step": 137760,
+      "score": 12,
+      "length": 1781
+    },
+    {
+      "step": 146680,
+      "score": 21,
+      "length": 1786
+    },
+    {
+      "step": 153360,
+      "score": -2,
+      "length": 1783
+    },
+    {
+      "step": 160080,
+      "score": 26,
+      "length": 1781
+    },
+    {
+      "step": 166800,
+      "score": 9,
+      "length": 1786
+    },
+    {
+      "step": 173480,
+      "score": 38,
+      "length": 1780
+    },
+    {
+      "step": 182440,
+      "score": 5,
+      "length": 1782
+    },
+    {
+      "step": 189120,
+      "score": 27,
+      "length": 1785
+    },
+    {
+      "step": 195840,
+      "score": 22,
+      "length": 1779
+    },
+    {
+      "step": 202520,
+      "score": 27,
+      "length": 1780
+    },
+    {
+      "step": 209240,
+      "score": 2,
+      "length": 1785
+    },
+    {
+      "step": 218160,
+      "score": 1,
+      "length": 1784
+    },
+    {
+      "step": 224840,
+      "score": 32,
+      "length": 1343
+    },
+    {
+      "step": 229320,
+      "score": 34,
+      "length": 1657
+    },
+    {
+      "step": 236000,
+      "score": 14,
+      "length": 1780
+    },
+    {
+      "step": 242680,
+      "score": 29,
+      "length": 1783
+    },
+    {
+      "step": 251640,
+      "score": 9,
+      "length": 1785
+    },
+    {
+      "step": 258320,
+      "score": 19,
+      "length": 1787
+    },
+    {
+      "step": 265040,
+      "score": 54,
+      "length": 1783
+    },
+    {
+      "step": 271720,
+      "score": 21,
+      "length": 1782
+    },
+    {
+      "step": 278440,
+      "score": 37,
+      "length": 1513
+    },
+    {
+      "step": 285160,
+      "score": 52,
+      "length": 1061
+    },
+    {
+      "step": 289600,
+      "score": 50,
+      "length": 1132
+    },
+    {
+      "step": 294080,
+      "score": 48,
+      "length": 1219
+    },
+    {
+      "step": 298560,
+      "score": 52,
+      "length": 1020
+    },
+    {
+      "step": 303000,
+      "score": 32,
+      "length": 1462
+    },
+    {
+      "step": 309720,
+      "score": 61,
+      "length": 955
+    },
+    {
+      "step": 311960,
+      "score": 40,
+      "length": 1030
+    },
+    {
+      "step": 316440,
+      "score": 57,
+      "length": 913
+    },
+    {
+      "step": 320880,
+      "score": 48,
+      "length": 1030
+    },
+    {
+      "step": 325360,
+      "score": 46,
+      "length": 1143
+    },
+    {
+      "step": 329840,
+      "score": 53,
+      "length": 888
+    },
+    {
+      "step": 332080,
+      "score": 70,
+      "length": 654
+    },
+    {
+      "step": 334320,
+      "score": 32,
+      "length": 1207
+    },
+    {
+      "step": 341000,
+      "score": 70,
+      "length": 630
+    },
+    {
+      "step": 343240,
+      "score": 61,
+      "length": 717
+    },
+    {
+      "step": 345480,
+      "score": 59,
+      "length": 780
+    },
+    {
+      "step": 347720,
+      "score": 58,
+      "length": 768
+    },
+    {
+      "step": 352160,
+      "score": 43,
+      "length": 863
+    },
+    {
+      "step": 354400,
+      "score": 41,
+      "length": 936
+    },
+    {
+      "step": 358880,
+      "score": 46,
+      "length": 1045
+    },
+    {
+      "step": 363360,
+      "score": 64,
+      "length": 732
+    },
+    {
+      "step": 365600,
+      "score": 49,
+      "length": 967
+    },
+    {
+      "step": 370040,
+      "score": 34,
+      "length": 927
+    },
+    {
+      "step": 374520,
+      "score": 53,
+      "length": 793
+    },
+    {
+      "step": 376760,
+      "score": 64,
+      "length": 906
+    },
+    {
+      "step": 381240,
+      "score": 68,
+      "length": 782
+    },
+    {
+      "step": 383480,
+      "score": 64,
+      "length": 820
+    },
+    {
+      "step": 385680,
+      "score": 70,
+      "length": 710
+    },
+    {
+      "step": 390160,
+      "score": 61,
+      "length": 813
+    },
+    {
+      "step": 392400,
+      "score": 57,
+      "length": 833
+    },
+    {
+      "step": 396880,
+      "score": 51,
+      "length": 860
+    },
+    {
+      "step": 399120,
+      "score": 50,
+      "length": 971
+    },
+    {
+      "step": 403560,
+      "score": 68,
+      "length": 736
+    },
+    {
+      "step": 405800,
+      "score": 83,
+      "length": 484
+    },
+    {
+      "step": 408040,
+      "score": 89,
+      "length": 412
+    },
+    {
+      "step": 410280,
+      "score": 69,
+      "length": 708
+    },
+    {
+      "step": 412520,
+      "score": 79,
+      "length": 504
+    },
+    {
+      "step": 414760,
+      "score": 73,
+      "length": 693
+    },
+    {
+      "step": 417000,
+      "score": 61,
+      "length": 852
+    },
+    {
+      "step": 421440,
+      "score": 79,
+      "length": 575
+    },
+    {
+      "step": 423640,
+      "score": 77,
+      "length": 476
+    },
+    {
+      "step": 425880,
+      "score": 56,
+      "length": 874
+    },
+    {
+      "step": 428120,
+      "score": 61,
+      "length": 1001
+    },
+    {
+      "step": 432600,
+      "score": 25,
+      "length": 1457
+    },
+    {
+      "step": 439280,
+      "score": 70,
+      "length": 757
+    },
+    {
+      "step": 441480,
+      "score": 92,
+      "length": 398
+    },
+    {
+      "step": 443720,
+      "score": 62,
+      "length": 746
+    },
+    {
+      "step": 445960,
+      "score": 85,
+      "length": 484
+    },
+    {
+      "step": 448200,
+      "score": 79,
+      "length": 676
+    },
+    {
+      "step": 450440,
+      "score": 94,
+      "length": 361
+    },
+    {
+      "step": 452640,
+      "score": 50,
+      "length": 719
+    },
+    {
+      "step": 454880,
+      "score": 67,
+      "length": 633
+    },
+    {
+      "step": 457120,
+      "score": 78,
+      "length": 516
+    },
+    {
+      "step": 459360,
+      "score": 80,
+      "length": 590
+    },
+    {
+      "step": 461600,
+      "score": 76,
+      "length": 566
+    },
+    {
+      "step": 463840,
+      "score": 82,
+      "length": 511
+    },
+    {
+      "step": 466080,
+      "score": 83,
+      "length": 504
+    },
+    {
+      "step": 468280,
+      "score": 51,
+      "length": 794
+    },
+    {
+      "step": 470520,
+      "score": 70,
+      "length": 653
+    },
+    {
+      "step": 475000,
+      "score": 86,
+      "length": 456
+    },
+    {
+      "step": 477240,
+      "score": 85,
+      "length": 362
+    },
+    {
+      "step": 479480,
+      "score": 80,
+      "length": 544
+    },
+    {
+      "step": 481720,
+      "score": 74,
+      "length": 504
+    },
+    {
+      "step": 486160,
+      "score": 90,
+      "length": 463
+    },
+    {
+      "step": 488400,
+      "score": 79,
+      "length": 506
+    },
+    {
+      "step": 490640,
+      "score": 75,
+      "length": 600
+    },
+    {
+      "step": 492880,
+      "score": 83,
+      "length": 465
+    },
+    {
+      "step": 495120,
+      "score": 68,
+      "length": 731
+    },
+    {
+      "step": 497360,
+      "score": 79,
+      "length": 497
+    },
+    {
+      "step": 499600,
+      "score": 76,
+      "length": 535
+    },
+    {
+      "step": 501800,
+      "score": 85,
+      "length": 575
+    },
+    {
+      "step": 504040,
+      "score": 96,
+      "length": 327
+    },
+    {
+      "step": 506280,
+      "score": 94,
+      "length": 338
+    },
+    {
+      "step": 508520,
+      "score": 63,
+      "length": 644
+    },
+    {
+      "step": 513000,
+      "score": 65,
+      "length": 628
+    },
+    {
+      "step": 515240,
+      "score": 82,
+      "length": 537
+    },
+    {
+      "step": 517440,
+      "score": 62,
+      "length": 739
+    },
+    {
+      "step": 519680,
+      "score": 83,
+      "length": 460
+    },
+    {
+      "step": 521920,
+      "score": 94,
+      "length": 313
+    },
+    {
+      "step": 524120,
+      "score": 65,
+      "length": 746
+    },
+    {
+      "step": 528600,
+      "score": 58,
+      "length": 646
+    },
+    {
+      "step": 530840,
+      "score": 46,
+      "length": 862
+    },
+    {
+      "step": 533080,
+      "score": 78,
+      "length": 462
+    },
+    {
+      "step": 535280,
+      "score": 87,
+      "length": 460
+    },
+    {
+      "step": 539760,
+      "score": 73,
+      "length": 629
+    },
+    {
+      "step": 542000,
+      "score": 80,
+      "length": 473
+    },
+    {
+      "step": 544240,
+      "score": 80,
+      "length": 506
+    },
+    {
+      "step": 546480,
+      "score": 74,
+      "length": 664
+    },
+    {
+      "step": 548720,
+      "score": 93,
+      "length": 385
+    },
+    {
+      "step": 550920,
+      "score": 77,
+      "length": 585
+    },
+    {
+      "step": 553160,
+      "score": 66,
+      "length": 647
+    },
+    {
+      "step": 555400,
+      "score": 94,
+      "length": 370
+    },
+    {
+      "step": 557640,
+      "score": 74,
+      "length": 545
+    },
+    {
+      "step": 559880,
+      "score": 69,
+      "length": 703
+    },
+    {
+      "step": 562120,
+      "score": 74,
+      "length": 657
+    },
+    {
+      "step": 564360,
+      "score": 75,
+      "length": 542
+    },
+    {
+      "step": 566600,
+      "score": 78,
+      "length": 530
+    },
+    {
+      "step": 568800,
+      "score": 65,
+      "length": 666
+    },
+    {
+      "step": 571040,
+      "score": 72,
+      "length": 661
+    },
+    {
+      "step": 575480,
+      "score": 82,
+      "length": 502
+    },
+    {
+      "step": 577720,
+      "score": 85,
+      "length": 448
+    },
+    {
+      "step": 582200,
+      "score": 84,
+      "length": 539
+    },
+    {
+      "step": 584400,
+      "score": 68,
+      "length": 641
+    },
+    {
+      "step": 586640,
+      "score": 64,
+      "length": 631
+    },
+    {
+      "step": 591080,
+      "score": 67,
+      "length": 698
+    },
+    {
+      "step": 593320,
+      "score": 67,
+      "length": 712
+    },
+    {
+      "step": 595560,
+      "score": 66,
+      "length": 647
+    },
+    {
+      "step": 597800,
+      "score": 47,
+      "length": 984
+    },
+    {
+      "step": 602240,
+      "score": 97,
+      "length": 294
+    },
+    {
+      "step": 604480,
+      "score": 45,
+      "length": 808
+    },
+    {
+      "step": 608960,
+      "score": 86,
+      "length": 457
+    },
+    {
+      "step": 611200,
+      "score": 53,
+      "length": 864
+    },
+    {
+      "step": 613440,
+      "score": 58,
+      "length": 804
+    },
+    {
+      "step": 617880,
+      "score": 67,
+      "length": 646
+    },
+    {
+      "step": 620120,
+      "score": 65,
+      "length": 567
+    },
+    {
+      "step": 622360,
+      "score": 61,
+      "length": 718
+    },
+    {
+      "step": 624600,
+      "score": 80,
+      "length": 471
+    },
+    {
+      "step": 626840,
+      "score": 80,
+      "length": 466
+    },
+    {
+      "step": 629080,
+      "score": 81,
+      "length": 513
+    },
+    {
+      "step": 631320,
+      "score": 100,
+      "length": 240
+    },
+    {
+      "step": 633520,
+      "score": 72,
+      "length": 535
+    },
+    {
+      "step": 635760,
+      "score": 79,
+      "length": 485
+    },
+    {
+      "step": 638000,
+      "score": 71,
+      "length": 704
+    },
+    {
+      "step": 640240,
+      "score": 70,
+      "length": 677
+    },
+    {
+      "step": 642480,
+      "score": 80,
+      "length": 483
+    },
+    {
+      "step": 644720,
+      "score": 83,
+      "length": 485
+    },
+    {
+      "step": 646960,
+      "score": 90,
+      "length": 423
+    },
+    {
+      "step": 651400,
+      "score": 82,
+      "length": 491
+    },
+    {
+      "step": 653640,
+      "score": 87,
+      "length": 383
+    },
+    {
+      "step": 655880,
+      "score": 86,
+      "length": 392
+    },
+    {
+      "step": 658120,
+      "score": 71,
+      "length": 653
+    },
+    {
+      "step": 662600,
+      "score": 73,
+      "length": 540
+    },
+    {
+      "step": 664840,
+      "score": 97,
+      "length": 265
+    },
+    {
+      "step": 671520,
+      "score": 86,
+      "length": 536
+    },
+    {
+      "step": 673720,
+      "score": 92,
+      "length": 372
+    },
+    {
+      "step": 675960,
+      "score": 59,
+      "length": 698
+    },
+    {
+      "step": 680440,
+      "score": 73,
+      "length": 682
+    },
+    {
+      "step": 682640,
+      "score": 40,
+      "length": 968
+    },
+    {
+      "step": 687120,
+      "score": 64,
+      "length": 711
+    },
+    {
+      "step": 689360,
+      "score": 87,
+      "length": 495
+    },
+    {
+      "step": 691600,
+      "score": 72,
+      "length": 640
+    },
+    {
+      "step": 693840,
+      "score": 84,
+      "length": 468
+    },
+    {
+      "step": 696080,
+      "score": 54,
+      "length": 867
+    },
+    {
+      "step": 698320,
+      "score": 72,
+      "length": 601
+    },
+    {
+      "step": 700520,
+      "score": 85,
+      "length": 462
+    },
+    {
+      "step": 702760,
+      "score": 96,
+      "length": 331
+    },
+    {
+      "step": 705000,
+      "score": 76,
+      "length": 596
+    },
+    {
+      "step": 707240,
+      "score": 72,
+      "length": 691
+    },
+    {
+      "step": 709480,
+      "score": 92,
+      "length": 516
+    },
+    {
+      "step": 711720,
+      "score": 80,
+      "length": 510
+    },
+    {
+      "step": 713960,
+      "score": 94,
+      "length": 287
+    },
+    {
+      "step": 718400,
+      "score": 81,
+      "length": 567
+    },
+    {
+      "step": 720640,
+      "score": 69,
+      "length": 740
+    },
+    {
+      "step": 722880,
+      "score": 59,
+      "length": 1003
+    },
+    {
+      "step": 727360,
+      "score": 67,
+      "length": 900
+    },
+    {
+      "step": 731840,
+      "score": 96,
+      "length": 321
+    },
+    {
+      "step": 734040,
+      "score": 97,
+      "length": 318
+    },
+    {
+      "step": 736280,
+      "score": 94,
+      "length": 307
+    },
+    {
+      "step": 738520,
+      "score": 91,
+      "length": 383
+    },
+    {
+      "step": 740760,
+      "score": 75,
+      "length": 656
+    },
+    {
+      "step": 743000,
+      "score": 93,
+      "length": 387
+    },
+    {
+      "step": 745240,
+      "score": 64,
+      "length": 761
+    },
+    {
+      "step": 747480,
+      "score": 42,
+      "length": 1022
+    },
+    {
+      "step": 751920,
+      "score": 82,
+      "length": 571
+    },
+    {
+      "step": 754160,
+      "score": 83,
+      "length": 685
+    },
+    {
+      "step": 756400,
+      "score": 82,
+      "length": 614
+    },
+    {
+      "step": 758640,
+      "score": 69,
+      "length": 926
+    },
+    {
+      "step": 763080,
+      "score": 92,
+      "length": 311
+    },
+    {
+      "step": 765320,
+      "score": 53,
+      "length": 1395
+    },
+    {
+      "step": 772040,
+      "score": 95,
+      "length": 333
+    },
+    {
+      "step": 774280,
+      "score": 72,
+      "length": 637
+    },
+    {
+      "step": 776520,
+      "score": 94,
+      "length": 333
+    },
+    {
+      "step": 778760,
+      "score": 90,
+      "length": 342
+    },
+    {
+      "step": 781000,
+      "score": 77,
+      "length": 539
+    },
+    {
+      "step": 783200,
+      "score": 99,
+      "length": 228
+    },
+    {
+      "step": 787680,
+      "score": 74,
+      "length": 612
+    }
+  ]
+}
